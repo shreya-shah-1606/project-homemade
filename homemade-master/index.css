@@ -1,0 +1,88 @@
+body{
+	background-color: gray;
+}
+.outer{
+	height: 1000px;
+	width: 1500px;
+	background-image: url('img/bg42.jpg');	
+}
+.float{
+	float: left;
+}
+.innerall{
+	height: 1000px;
+	width: 950px;
+}
+.innerad{
+	height: 1000px;
+	width: 500px;
+}
+.ad1{
+	height: 350px;
+	width: 499px;
+}
+.ad2{
+	height: 300px;
+	width: 499px;
+}
+.innerhead{
+	height: 30px;
+	width: 1000px;
+	margin: 10px;
+	font-family: Perpetua;
+	color: red;
+	font-size: 26px;
+	font-weight: bold;
+	padding: 10px;
+}
+.innermain{
+	margin-left: 100px;
+	height: 250px;
+	width: 900px;
+	border: none;
+}
+.innouter{
+	height: 250px;
+	width: 190px;
+	border: none;
+	margin-right: 30px;
+}
+.inner1{
+	height:30px;
+	width: 190px;
+	border: none;
+	text-align: left;
+}
+.inner2{
+	height: 210px;
+	width: 190px;
+	border: none;
+	margin-right: 10px;
+}
+.inner3{
+	height: 30px;
+	width: 170px;
+	border: none;
+}
+.font{
+	font-family: Perpetua;
+	font-size: 24px;
+	color: purple;
+}
+a{
+	text-decoration: none;
+}
+.font1{
+	font-size: 18px;
+	color: yellow;
+}
+.button{
+	background-color: navy;
+    border: 1px solid navy;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: Arial Black;
+}
